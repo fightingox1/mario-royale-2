@@ -1,5 +1,5 @@
 # PyRoyaleClient
-This repository is only for the development of the Mario Royale client source code.
-I'm not the writer of Mario Royale, the initial version 2.1.0A was a backup from InfernoPlus' website that I deobfuscated.
-
-Want to help us? Just create a Pull Request!
+This is a copy of the mario royale code for testing and other stuff 
+go to https://github.com/gyorokpeter/mroyale-client
+for the real mario royale resperitory
+note this might not be updated and might be behind on updates
